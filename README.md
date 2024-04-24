@@ -1,6 +1,4 @@
-### bin cilin 🤠
-
-Miss me w/ that ai generated github readme bs just ask me what my experience is or take a look around
+### aight 🤠
 
 <!--
 **gileanu/gileanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
